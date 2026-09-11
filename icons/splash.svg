@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1290" height="2796" viewBox="0 0 1290 2796">
+  <rect width="1290" height="2796" fill="#0B0B0E"/>
+  <g fill="#F5F5F7" opacity="0.9">
+    <circle cx="525" cy="1310" r="10"/>
+    <circle cx="575" cy="1310" r="10"/>
+    <circle cx="625" cy="1310" r="10"/>
+    <circle cx="725" cy="1310" r="10"/>
+    <circle cx="775" cy="1310" r="10"/>
+  </g>
+  <circle cx="675" cy="1310" r="10" fill="#FF453A"/>
+  <text x="645" y="1470" text-anchor="middle" font-family="-apple-system, 'SF Pro Display', system-ui, sans-serif" font-size="120" font-weight="800" fill="#F5F5F7" letter-spacing="-3">Marquee</text>
+  <text x="645" y="1530" text-anchor="middle" font-family="-apple-system, 'SF Pro Text', system-ui, sans-serif" font-size="40" font-weight="400" fill="#F5F5F7" opacity="0.45">Your movies &amp; shows, privately.</text>
+</svg>
