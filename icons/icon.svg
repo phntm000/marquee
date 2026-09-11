@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0C0C10"/>
+  <!-- marquee bulbs, top row -->
+  <g fill="#F5F5F7">
+    <circle cx="116" cy="96" r="13"/>
+    <circle cx="172" cy="96" r="13"/>
+    <circle cx="228" cy="96" r="13"/>
+    <circle cx="340" cy="96" r="13"/>
+    <circle cx="396" cy="96" r="13"/>
+  </g>
+  <circle cx="284" cy="96" r="13" fill="#FF453A"/>
+  <!-- M letterform -->
+  <text x="256" y="368" text-anchor="middle" font-family="-apple-system, 'SF Pro Display', system-ui, sans-serif" font-size="252" font-weight="800" fill="#F5F5F7" letter-spacing="-8">M</text>
+</svg>
