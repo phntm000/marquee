@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- maskable: full-bleed background, mark kept in the 80% safe zone -->
+  <rect width="512" height="512" fill="#0C0C10"/>
+  <g fill="#F5F5F7">
+    <circle cx="166" cy="146" r="13"/>
+    <circle cx="212" cy="146" r="13"/>
+    <circle cx="258" cy="146" r="13"/>
+    <circle cx="350" cy="146" r="13"/>
+    <circle cx="396" cy="146" r="13"/>
+  </g>
+  <circle cx="304" cy="146" r="13" fill="#FF453A"/>
+  <text x="256" y="368" text-anchor="middle" font-family="-apple-system, 'SF Pro Display', system-ui, sans-serif" font-size="212" font-weight="800" fill="#F5F5F7" letter-spacing="-6">M</text>
+</svg>
